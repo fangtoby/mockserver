@@ -74,6 +74,6 @@ fs.readdirSync(mockDir).forEach(function (file){
 })
 
 server.listen('8090',function(argument) {
-    console.log(color.red('mockjson server: http://localhost:8090'))
-    console.log(color.red('status: open'))
+    console.log('mockjson server:' + color.green(' http://localhost:8090'))
+    console.log('status:'+ color.green(' open'))
 });
