@@ -1,7 +1,15 @@
 {
-  "devDependencies": {
-    "body-parser": "^1.17.1",
-    "colors-cli": "^1.0.8",
-    "express": "^4.15.2"
-  }
+	"name": "mocksever",
+	"version": "0.0.1",
+	"description": "mock ajax data for dev",
+	"main": "server.js",
+	"scripts": {
+		"mock": "node server_mock.js"
+	},
+	"devDependencies": {
+		"body-parser": "^1.17.1",
+		"colors-cli": "^1.0.8",
+		"express": "^4.15.2",
+		"mockjs": "^1.0.1-beta3"
+	}
 }
