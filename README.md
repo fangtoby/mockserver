@@ -1,5 +1,5 @@
 # mockserver
- mock data for react fetch request
+ 	mock data for react fetch request
 	1.git clone https://github.com/fangtoby/mockserver.git
 	2.npm install
 	3.npm run mock
