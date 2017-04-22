@@ -3,7 +3,7 @@
 	1.git clone https://github.com/fangtoby/mockserver.git
 	2.npm install
 	3.npm run mock
-	4.open you chrome request the uri http://localhost:8090//api/mock/anlink
+	4.open you chrome request the uri http://localhost:8090/api/mock/anlink
 
 # ./mock/*.js multiple api in one file
 
